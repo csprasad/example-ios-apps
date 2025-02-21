@@ -59,7 +59,6 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [Pizza Man](https://github.com/fulldecent/pizzaman) - A simple game where you eat flying pepperoni
 
 ## Content
-* [Mt.Tip](https://github.com/csprasad/Mr-Tip) - Mr. Tip is a sleek iOS app built with Swift to quickly calculate tips and split bills.
 * [Calculator-iOS](https://github.com/imjog/Calculator-iOS) - Basic calculator app for iOS devices using Swift3. Created for learning purpose.
 * [Stopwatch](https://github.com/imjog/stopwatch) - Basic Stop Watch & Countdown app for iOS devices. Created for learning purpose.
 * [To Do List](https://github.com/imjog/todolist-ios-app) - Basic To Do List App for iOS devices using swift and xcode.
@@ -126,6 +125,8 @@ Example-iOS-Apps is an amazing list for people who are beginners and learning iO
 * [PIA VPN](https://github.com/pia-foss/vpn-ios) - VPN App by Private Internet Access.
 * [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 * [Expense Tracker](https://github.com/abdorizak/Expensive-Tracker-App) - Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income
+* [Mt.Tip](https://github.com/csprasad/Mr-Tip) - Mr. Tip is a sleek iOS app built with Swift to quickly calculate tips and split bills.
+
 
 
 ## Author
